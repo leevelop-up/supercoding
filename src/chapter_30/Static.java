@@ -1,4 +1,4 @@
-package chapter_30;
+package exercise.chapter_30;
 
 public class Static {
 

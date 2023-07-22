@@ -1,4 +1,4 @@
-package chapter_35;
+package exercise.chapter_35;
 
 public class Abstract {
 }

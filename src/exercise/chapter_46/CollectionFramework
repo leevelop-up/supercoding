@@ -1,0 +1,11 @@
+컬렉션 프레임워크
+ - java.util패키지
+
+ 구성 상위 인터페이스
+ 1. collection인터페이스
+ 2. map인터페이스
+
+ 대부분 genecric에서 구현
+
+ List 인터페이스
+ - ArrayList

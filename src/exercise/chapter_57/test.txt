@@ -1,0 +1,2 @@
+printwriter 예시
+42

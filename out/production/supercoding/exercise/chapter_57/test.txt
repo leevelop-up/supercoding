@@ -1,0 +1,4 @@
+hello, this is line1.
+line 2 of the text file
+line3!
+number 4.
